@@ -1,1 +1,1 @@
-# The Information Manage System(IMSys)
+# The Student Information Manage System(SMSys)
